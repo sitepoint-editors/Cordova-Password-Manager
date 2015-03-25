@@ -9,4 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <feature name="Notification">
+    <param name="ios-package" value="CDVNotification" />
+</feature>
 </widget>
